@@ -1,0 +1,54 @@
+[
+    {
+        "title": "portrait",
+        "images": [
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg"
+        ],
+        "url": "portraits"
+    },
+    {
+        "title": "street",
+        "images": [
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg"
+        ],
+        "url": "street"
+    },
+    {
+        "title": "still life",
+        "images": [
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg"
+        ],
+        "url": "still-life"
+    },
+    {
+        "title": "design",
+        "images": [
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg",
+            "/images/portraits/1/1.jpg"
+        ],
+        "url": "design"
+    }
+]

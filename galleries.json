@@ -1,0 +1,18 @@
+{
+    "portraits": { 
+        "title": "Portraits", 
+        "images": [8, 10, 9, 10, 7, 3, 8, 6]
+    },
+    "street": { 
+        "title": "Street", 
+        "images": [12, 6, 3, 4, 3, 5, 4, 7, 6]
+    },
+    "still-life": { 
+        "title": "Still life", 
+        "images": [3, 3, 7, 5]
+    },
+    "design": {
+        "title": "Design",
+        "images": [2]
+    }
+}
