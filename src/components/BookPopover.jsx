@@ -20,20 +20,20 @@ const BookPopover = ({ open, setOpen }) => {
     const form = new FormData();
     form.append(
       "from",
-      "Mailgun Sandbox <postmaster@sandbox5645518d2d8c4e958e02b99f444154c3.mailgun.org>"
+      "Mailgun Sandbox <postmaster@sandbox662797646cd5414eb52d4252024ed199.mailgun.org>"
     );
-    form.append("to", "Timur Ramazanov <timurram007@ya.ru>");
+    form.append("to", "Aleksei Zavadskii <alesha.zawadsky@yandex.ru>");
     form.append("subject", `📷 Photoshoot request: ${name} - ${contact} 🔔`);
     form.append("text", details);
 
     fetch(
-      "https://api.mailgun.net/v3/sandbox5645518d2d8c4e958e02b99f444154c3.mailgun.org/messages",
+      "https://api.mailgun.net/v3/sandbox662797646cd5414eb52d4252024ed199.mailgun.org/messages",
       {
         method: "POST",
         headers: {
           Authorization:
             "Basic " +
-            btoa("api:f400869622a3c7d119fd19903df89038-e5475b88-24f5b47e"),
+            btoa("api:e8ef59e7f2b4559080df5abbc2fbd4dc-262b213e-1f6521bf"),
         },
         body: form,
       }
