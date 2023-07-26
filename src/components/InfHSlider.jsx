@@ -4,28 +4,9 @@ const InfHSlider = ({ images }) => {
     const [imagesList, setImagesList] = useState(images);
     const elementRef = useRef();
 
-    useEffect(() => {
-        const callback = (entries) => {
-            entries.forEach((entry) => {
-                if (entry.isIntersecting) {
-                    setImagesList((prevImages) => [...prevImages, ...images]);
-                }
-            });
-        };
+    // -----------------
 
-        const options = {
-            root: null,
-            rootMargin: "0px",
-            threshold: 0.0,
-        };
-        const observer = new IntersectionObserver(callback, options);
-
-        if (elementRef.current) {
-            observer.observe(elementRef.current);
-        }
-
-        return () => observer.disconnect();
-    }, []);
+    // -----------------
 
     return (
         <ul className="flex overflow-x-auto snap-x">
