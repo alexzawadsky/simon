@@ -2,52 +2,48 @@
     {
         "title": "portrait",
         "images": [
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg"
+            "/images/portraits/1/4.jpg",
+            "/images/portraits/2/5.jpg",
+            "/images/portraits/3/7.jpg",
+            "/images/portraits/6/1.jpg",
+            "/images/portraits/7/2.jpg",
+            "/images/portraits/5/2.jpg"
         ],
         "url": "portraits"
     },
     {
         "title": "street",
         "images": [
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg"
+            "/images/street/1/1.jpg",
+            "/images/street/2/2.jpg",
+            "/images/street/2/3.jpg",
+            "/images/street/3/1.jpg",
+            "/images/street/4/2.jpg",
+            "/images/street/5/2.jpg",
+            "/images/street/6/1.jpg"
         ],
         "url": "street"
     },
     {
         "title": "still life",
         "images": [
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg"
+            "/images/still-life/1/1.jpg",
+            "/images/still-life/2/1.jpg",
+            "/images/still-life/3/4.jpg",
+            "/images/still-life/4/1.jpg",
+            "/images/still-life/4/3.jpg"
         ],
         "url": "still-life"
     },
     {
         "title": "design",
         "images": [
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg",
-            "/images/portraits/1/1.jpg"
+            "/images/design/1/1.jpg",
+            "/images/design/1/2.jpg",
+            "/images/design/1/1.jpg",
+            "/images/design/1/2.jpg",
+            "/images/design/1/1.jpg",
+            "/images/design/1/2.jpg"
         ],
         "url": "design"
     }
